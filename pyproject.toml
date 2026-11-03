@@ -3,12 +3,12 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "hermes-plugin-opencode"
+name = "opencode-plugin-for-talos"
 version = "1.0.0"
 authors = [
   { name="Sarvesh", email="sarvesh173@users.noreply.github.com" },
 ]
-description = "OpenCode CLI bridge plugin for Hermes Agent with real-time session tracking, live polling, and agent delegation"
+description = "OpenCode Plugin for TALOS: Real-time CLI agent linking, session tracking, and execution"
 readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [

@@ -1,6 +1,6 @@
-# hermes-plugin-opencode
+# OpenCode Plugin for TALOS
 
-> OpenCode CLI Bridge & Real-Time Session Integration for Hermes Agent
+> OpenCode CLI Bridge & Real-Time Session Integration for TALOS
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Hermes Agent](https://img.shields.io/badge/Hermes-Plugin%20v1-7C4DFF.svg)](https://hermes-agent.nousresearch.com)

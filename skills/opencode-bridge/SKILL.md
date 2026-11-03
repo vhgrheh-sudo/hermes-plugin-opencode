@@ -10,7 +10,7 @@ metadata:
     related_skills: [autonomous-ai-agents/opencode, apple-agent-drilldown-architecture]
 ---
 
-# OpenCode CLI Bridge & Real-Time Session Integration
+# OpenCode Plugin for TALOS
 
 Hermes Agent integration for OpenCode (https://github.com/opencode-ai/opencode).
 Provides programmatic session inspection, background server telemetry, and automated periodic live linking.

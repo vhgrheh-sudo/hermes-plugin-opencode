@@ -1,8 +1,8 @@
 {
   "name": "opencode-bridge",
-  "title": "OpenCode CLI Bridge",
+  "title": "OpenCode Plugin for TALOS",
   "version": "1.0.0",
-  "description": "OpenCode CLI bridge plugin for Hermes Agent with real-time session tracking, live polling, and agent delegation.",
+  "description": "OpenCode CLI bridge & real-time session integration plugin for TALOS and Hermes Agent.",
   "author": "sarvesh173",
   "license": "MIT",
   "repository": "https://github.com/vhgrheh-sudo/hermes-plugin-opencode",
