@@ -1,0 +1,26 @@
+{
+  "name": "opencode-bridge",
+  "title": "OpenCode CLI Bridge",
+  "version": "1.0.0",
+  "description": "OpenCode CLI bridge plugin for Hermes Agent with real-time session tracking, live polling, and agent delegation.",
+  "author": "sarvesh173",
+  "license": "MIT",
+  "repository": "https://github.com/vhgrheh-sudo/hermes-plugin-opencode",
+  "homepage": "https://github.com/vhgrheh-sudo/hermes-plugin-opencode#readme",
+  "capabilities": {
+    "provides_tools": [
+      "opencode_list_sessions",
+      "opencode_status",
+      "opencode_run_task"
+    ],
+    "provides_hooks": [
+      "periodic_poll"
+    ],
+    "requires_env": []
+  },
+  "polling": {
+    "enabled": true,
+    "interval_seconds": 30,
+    "output_file": "~/.hermes/opencode_live_state.json"
+  }
+}
